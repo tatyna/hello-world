@@ -1,2 +1,5 @@
 # hello-world
-My first repo
+
+Hi, my name is Tatiana!
+I like berries, espeacilly strawberries!
+I like the world!!!
